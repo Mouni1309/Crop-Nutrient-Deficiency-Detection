@@ -10,7 +10,7 @@ from ultralytics import YOLO
 import google.generativeai as genai
 
 # Set your Gemini API key here
-GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'AIzaSyBbmAt0HNXKtaY7x0o6CauGJ1Uup2ydmag') # Replace with your actual default or remove if always from env
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'Your_API_Key') # Replace with your actual default or remove if always from env
 genai.configure(api_key=GOOGLE_API_KEY)
 
 app = Flask(__name__)
