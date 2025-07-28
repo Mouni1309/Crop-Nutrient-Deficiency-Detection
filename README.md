@@ -1,7 +1,5 @@
 # Crop-Nutrient-Deficiency-Detection
 
-** Crop Nutrient Deficiency Detection using YOLOv8 & Gemini API** 🌾
-
 
 
 🔍 **What it does:**  
