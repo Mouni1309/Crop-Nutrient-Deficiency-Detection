@@ -18,9 +18,3 @@ A web-based application that detects **nutrient deficiencies in rice plants** fr
 
 This project not only strengthened my skills in **deep learning** and **LLM integration**, but also gave me a real-world problem to solve with AI.
 
-📸 Empowering precision agriculture, one leaf at a time!
-
----
-
-#AI #MachineLearning #DeepLearning #ComputerVision #YOLOv8 #GenerativeAI #GeminiAPI #Flask #OpenCV  
-#Agritech #PrecisionFarming #ArtificialIntelligence #PythonDeveloper #AIProjects #LLM #LinkedInProjects #StudentProjects #YOLO
