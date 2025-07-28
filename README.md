@@ -1,8 +1,8 @@
 # Crop-Nutrient-Deficiency-Detection
 
-🚀 **Project Launch: Crop Nutrient Deficiency Detection using YOLOv8 & Gemini API** 🌾
+** Crop Nutrient Deficiency Detection using YOLOv8 & Gemini API** 🌾
 
-I’m excited to share my latest project that combines **computer vision** and **generative AI** to support agriculture through technology.
+
 
 🔍 **What it does:**  
 A web-based application that detects **nutrient deficiencies in rice plants** from leaf images using a **YOLOv8 classification model**. Once a deficiency is detected, it leverages **Google’s Gemini LLM** to generate expert-level insights, including:  
